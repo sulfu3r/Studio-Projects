@@ -1,3 +1,9 @@
+--[[
+	Creator: Sulfur
+	Description: This is a VERY BASIC M1 based combat system which i had utilized in conjunction with the "First Module Framework".
+			You can use it, and tweak it without implimenting the framework but know some of the oddball values come from this.
+]]--
+
 local Players = game:GetService("Players")
 local UserInputService = game:GetService("UserInputService")
 local ReplicatedStorage = game:GetService("ReplicatedStorage")
